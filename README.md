@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently interested in digital design and verification
-- 📫 How to reach me: fengrui98@hotmail.com, Zhihu(https://www.zhihu.com/)
+- 📫 How to reach me: fengrui98@hotmail.com, [Zhihu](https://www.zhihu.com/)
 
 <!--
 **pastglory/pastglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
